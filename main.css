@@ -1,0 +1,10 @@
+.demo{
+    width:200px;
+    height:200px;
+    background-color: magenta;
+    margin: auto;    
+}
+.vip{
+    background-color: darkviolet;
+    color: white;
+}
